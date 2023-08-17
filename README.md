@@ -1,4 +1,5 @@
-- 👋 Moikka, olen Mio (<a href="https://github.com/dmiha045-xamk">@dmiha045-xamk</a>)
+- 👋 Moikka, olen Mio ( <a href="https://github.com/dmiha045-xamk">@dmiha045-xamk</a> )
+- 勉強、頑張ります💪
 <!--- 👀 I’m interested in ... --->
 <!--- 🌱 Opiskelen tietojenkäsittelyn tradenomiksi Xamkissa (2022-) --->
 <!--- 💞️ I’m looking to collaborate on ... --->
